@@ -1,0 +1,1 @@
+This folder will contain the images in downloaded_photos/ converted to the .jpeg file format. They should still have their original file names.

@@ -1,0 +1,1 @@
+This folder should contain fully-processed photos following the [subject]\_[date]\_[record-number].jpeg file name convention, each with a corresponding entry in the master index in photo_data/. 

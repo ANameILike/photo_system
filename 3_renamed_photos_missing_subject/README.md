@@ -1,0 +1,1 @@
+This folder contains photos that have been renamed to the date and date-associated record number standard ([YYYY-MM-DD]_[xxxx].jpeg).

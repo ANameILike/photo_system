@@ -1,0 +1,14 @@
+File converting script
+- Step 2 in the workflow
+
+Preliminary index builder script
+- Step 3 in the workflow
+
+First master index referencing, combination assigning, and incomplete renaming script
+- Step 4 in the workflow
+
+Make a tkinter application that can select photos and view and edit their metadata in bulk, connecting to the master index.
+- Step 5 in the workflow.
+
+Make an assign_something.py file where I select a group of files and attach my [something]_ to the front of the file names
+- Step 6 in the workflow.

@@ -1,0 +1,1 @@
+This folder should constitutively contain a master index containing clean photo file names associated with a date, a record number for that date, a place, a subject type, and a subject name. 

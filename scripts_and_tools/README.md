@@ -1,0 +1,1 @@
+This folder will contain the scripts used for converting files, renaming files, and building the temporary and master indexes. It will also contain a tkinter application for associating metadata to photos in bulk.

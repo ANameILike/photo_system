@@ -1,0 +1,1 @@
+This folder should contain raw photos downloaded from iCloud or a camera. They should be in their original file formats and file names.

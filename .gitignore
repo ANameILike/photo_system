@@ -1,0 +1,8 @@
+1_downloaded_photos/*
+2_converted_photos/*
+2b_fix_no_date/*
+3_renamed_photos_missing_subject/*
+4_fully_renamed_photos/*
+photo_data/*
+
+!README.md

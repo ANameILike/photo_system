@@ -1,0 +1,1 @@
+This folder will contain all photos missing a date. Manually add the dates, then move the photos back to 2_converted_photos/ and rerun the preliminary index-building script.
